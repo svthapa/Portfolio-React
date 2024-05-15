@@ -87,7 +87,7 @@ export default function Home() {
           <div className="bg-gray-100 dark:bg-gray-800 p-10 rounded-lg shadow-lg">
             <h3 className="text-3xl py-1 dark:text-white">About Me</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Hi, I'm Samrajya Thapa, I earned my Masters Degree from Iowa State University in Computer Science. My thesis is on Multimodality Pretraining in Medical Domain. I did my undergrad in The University of Mississippi- Ole Miss in Bachelor of Computer Science Emphasis on Data Science. 
+              Hi, I&apos;m Samrajya Thapa, I earned my Masters Degree from Iowa State University in Computer Science. My thesis is on Multimodality Pretraining in Medical Domain. I did my undergrad in The University of Mississippi- Ole Miss in Bachelor of Computer Science Emphasis on Data Science. 
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               I have experience working on various projects that involve developing machine learning models, analyzing data to extract actionable insights, and creating robust software applications. My technical skills include proficiency in programming languages such as Python, JavaScript, Java, C/C++. I am proficient in Pytorch and Pytorch Lightning, but have also used Tensorflow and Keras in the past for Machine learning development. 
