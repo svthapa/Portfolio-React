@@ -73,7 +73,7 @@ export default function Home() {
               </a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={sam} layout="fill" objectFit="cover" />
+              <Image src={sam} layout="fill" objectFit="cover" alt="sam"/>
             </div>
           </div>
         </section>
@@ -127,6 +127,7 @@ export default function Home() {
                   layout="responsive"
                   src={web1}
                   objectFit="contain"
+                  alt="recommendation system"
                 />
               </a>
             </div>
@@ -142,6 +143,7 @@ export default function Home() {
                   layout="responsive"
                   src={web2}
                   objectFit="contain"
+                  alt="causal"
                 />
               </a>
             </div>
