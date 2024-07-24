@@ -104,9 +104,7 @@ export default function Home() {
               My research assistant role at Iowa State led me to conduct novel research in Mulitmodality and Pretraining in Medical Domain, where I implemented a novel tri-modal pretraining framework with state-of-art Vision Transformer
               and Large Language Models like Bert, Llama.
             </p>
-            <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              The research paper is currently under review in a prestigious conference.
-            </p>
+            
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               My interests are exploring applications in various fields like computer vision and medical domain with current state of the art deep learning models and find novelty that can bring useful contributions to the field.
             </p>
