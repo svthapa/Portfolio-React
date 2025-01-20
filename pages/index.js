@@ -112,7 +112,7 @@ export default function Home() {
               and find novelty that can bring useful contributions to the field. My current work 
               is with Concepts to interpret and improve Models.
 
-              Multimodel Pretraining Paper: href="https://arxiv.org/pdf/2410.16239"
+              Multimodel Pretraining Paper: <a href="https://arxiv.org/pdf/2410.16239" >
             </p>
           </div>
         </section>
