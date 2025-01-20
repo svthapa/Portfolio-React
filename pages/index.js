@@ -54,7 +54,7 @@ export default function Home() {
               Machine Learning | Data Science | Software Engineering
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              Graduate Student @ Iowa State University
+              PhD Student @ Iowa State University
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a
