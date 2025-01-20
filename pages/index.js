@@ -93,7 +93,8 @@ export default function Home() {
               I have experience working on various projects that involve developing machine learning models, analyzing data to extract actionable insights, and creating robust software applications. My technical skills include proficiency in programming languages such as Python, JavaScript, Java, C/C++. I am proficient in Pytorch and Pytorch Lightning, but have also used Tensorflow and Keras in the past for Machine learning development. 
             </p>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Apart from my technical pursuits, I enjoy participating in marathons, and triathlons. The discipline and perseverance required for these races have greatly influenced my approach to tackling challenges in my professional life.
+              Apart from my technical pursuits, I am a passionate endurance athlete. I enjoy participating in events like Marathons, and Triathlons. 
+              The discipline, perseverance, and mental toughness required for these races have greatly influenced my approach to tackling challenges in my professional life.
             </p>
           </div>
         </section>
