@@ -2,7 +2,7 @@ import Head from "next/head";
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 import { BsFillMoonStarsFill, BsMailbox2 } from "react-icons/bs";
 import { useState } from "react";
-import sam from "../public/sam.jpg";
+import sam from "../public/DSC01026.jpg";
 import code from "../public/code.png";
 import design from "../public/design.png";
 import consulting from "../public/consulting.png";
